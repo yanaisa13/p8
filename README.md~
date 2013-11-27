@@ -100,7 +100,6 @@ Práctica 8.
         Esas son las líneas que se ejecutan al inciar sesión. con currentUser = Meteor.userId(); se coje el id del usuario con el que estoy inciando sesión que es el que sale en la segunda línea de la consola.
 
 7. ¿Qué sale en la consola cuando te sales (sing out)?
-        [13:07:18.904] "current user: 7vfZXe65JQ9gBxx7o"
-        [13:07:18.904] "current user: null"
-        El usuario está guardado y cuando sales se pone current user a null.
+
+        
 
